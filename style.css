@@ -254,6 +254,10 @@ header {
     .col-s-12 {
         width: 100%;
     }
+
+    .row {
+        margin: 0;
+    }
 }
 
 
