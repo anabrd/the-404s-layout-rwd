@@ -1,4 +1,4 @@
-/**** CONTENT GENERAL STLING ****/
+/**** CONTENT GENERAL STYLING ****/
 
 * {
     box-sizing: border-box;
@@ -201,7 +201,7 @@ header {
 
 }
 
-/**** MOBILE STYLING *****/
+/**** MOBILE SIZING *****/
 
 
 @media only screen and (max-width: 480px) {
